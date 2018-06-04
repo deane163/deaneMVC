@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * code is far away from bug with the animal protecting
+ * function: 拦截器实现，具体的拦截实现 Interceptor
  * ┏┓　　　┏┓
  * ┏┛┻━━━┛┻┓
  * ┃　　　　　　　┃

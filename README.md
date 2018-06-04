@@ -2,6 +2,7 @@
 
 ### 手写 SpringMVC
 
+0、 IOC实现，实例化对象，并加载在容器内.
 
 1、 实现 Controller的部分实现
 
